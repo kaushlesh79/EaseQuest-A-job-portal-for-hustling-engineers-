@@ -35,13 +35,13 @@
     npm install
    ```
 3.Start the development server:
-```bash
-   npm start  
-```
+   ```bash
+      npm start  
+   ```
 4.Open your browser and visit
-```bash
-   http://localhost:3000
-```
+   ```bash
+      http://localhost:3000
+   ```
 🎯 Usage
   -Sign Up or Log In to access the platform.
   -Use the search and filter tools to find relevant hackathons or jobs.
@@ -54,9 +54,9 @@ Fork the repo and submit a pull request.
 Report issues or suggest new features by opening an issue.
 🔗 Live Demo
   Experience EaseQuest live: EaseQuest 
-  ```bash
-    https://easequest.netlify.app
-  ```
+     ```bash
+       https://easequest.netlify.app
+     ```
 
 ✨ Acknowledgements
   Tailwind CSS for clean and modern UI design.
