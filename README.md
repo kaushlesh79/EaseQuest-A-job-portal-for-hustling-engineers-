@@ -42,23 +42,23 @@
    ```bash
       http://localhost:3000
    ```
-🎯 Usage
+## 🎯 Usage
   -Sign Up or Log In to access the platform.
   -Use the search and filter tools to find relevant hackathons or jobs.
   -Apply directly to events or job postings through the platform.
   -Track progress in your personal dashboard.
-👥 Contributing
+## 👥 Contributing
   Contributions are welcome! Feel free to:
 
 Fork the repo and submit a pull request.
 Report issues or suggest new features by opening an issue.
-🔗 Live Demo
+## 🔗 Live Demo
   Experience EaseQuest live: EaseQuest 
      ```bash
        https://easequest.netlify.app
      ```
 
-✨ Acknowledgements
+## ✨ Acknowledgements
   Tailwind CSS for clean and modern UI design.
   The developer community for inspiration and feedback.
   Empowering developers to connect with the right opportunities through EaseQuest! 🌟
